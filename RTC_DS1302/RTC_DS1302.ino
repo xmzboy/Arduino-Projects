@@ -27,7 +27,4 @@ else
 {
   digitalWrite(svet,HIGH);
 }
-
-  
- 
 }
