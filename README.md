@@ -15,7 +15,7 @@ Progress table of my projects:
 | RFID Tag Pass | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/RFID_tag_pass) |Completed |
 | RTC | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/RTC) |Completed |
 | RTC DS1302 | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/RTC_DS1302) |Completed |
-| Temperature Measurement Station | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/temperature_measurement_staton) |Completed |
+| Temperature Measurement Station | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/temperature_measurement_station) |Completed |
 | Ultrasonic Module | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/ultrasonic) |Completed |
 | Water Sensor | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/water_sensor) |Completed |
 | Watering Plants Simple | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/watering_plants_simple) |Completed |
