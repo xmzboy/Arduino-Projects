@@ -7,7 +7,6 @@ Progress table of my projects:
 |----------------|:---------:|----------------:|
 | Automatic Watering Station | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/automatic_watering_station) |Completed |
 | Cheking The IR Receiver | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/checking_the_IR_receiver) | Completed |
-| Humidity and Temperature | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/humidity_and_temperature) |Completed |
 | Nightlight Simple | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/nightlight_simple) |Completed |
 | Output value from the IR port to LCD | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/output_value_from_IR_port_to_LCD) |Completed |
 | Photoresistor and RTC | [push](https://github.com/xmzboy/Arduino-Projects/tree/main/photoresistor_and_RTC) |Completed |
